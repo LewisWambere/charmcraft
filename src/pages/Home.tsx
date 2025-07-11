@@ -10,7 +10,7 @@ const Home = () => {
   const testimonials = [
     {
       name: "Sarah Johnson",
-      rating: 5,
+      rating: 4,
       comment: "Absolutely beautiful baskets! The attention to detail is incredible.",
       image: "https://images.unsplash.com/photo-1494790108755-2616b9c4e2bb?w=100&h=100&fit=crop&crop=face"
     },
